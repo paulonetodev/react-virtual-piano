@@ -12,7 +12,7 @@ npm start
 
 ## Some Goals for this project
 
-* Sustain pedal
+* Sustain pedal.
 * Adding mobile support
 * Improving the UI
 * Allowing input through hotkeys
