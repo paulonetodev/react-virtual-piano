@@ -12,7 +12,7 @@ npm start
 
 ## Some things to improve
 
-* Receive sustain pedal commands
+* Receiving sustain pedal commands
 * Adding mobile support
 * Improving the UI
 * Allowing input through hotkeys
