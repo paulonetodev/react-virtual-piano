@@ -10,9 +10,9 @@ npm install
 npm start
 ```
 
-## Some Goals for this project
+## Some things to improve
 
-* Sustain pedal.
+* Receive sustain pedal commands
 * Adding mobile support
 * Improving the UI
 * Allowing input through hotkeys
